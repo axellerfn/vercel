@@ -40,6 +40,21 @@ et on écrit secret2 à la question
 
 16)
 production, preview, development
-Ils nous permettent de décomposer le travail sur le projet et de modifier un environnement sans changer les autres.
+Ils nous permettent de décomposer le travail sur le projet et de pouvoir modifier un environnement sans changer les autres.
 exemple : tester des modifications dans preview en laissant production fonctionnel s'il y a des erreurs.
+
+18)
+https://vercel-two-gamma.vercel.app/
+reçu par mail :
+vercel.axellerfn.vercel.app
+vercel-git-master.axellerfn.vercel.app
+vercel-two-gamma.vercel.app
+
+19)
+Un pull request permet de demander à l'administrateur du projet git s'il autorise 
+ou non les modifications et les merge sur la branche cible. 
+Souvent des tests sont lancés avant de merge les deux branches.
+
+
+
 
