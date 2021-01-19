@@ -64,6 +64,14 @@ est déployé.
 On voit bien la succession des deploiement dans longlet environnement situé à 
 droite à l'origine du projet.
 
+21)
+Production correspond à la branche master.
+L'intêret est d'avoir une validation faite par le propiétaire du projet avant de merge dans master.
+Workflow : Création nouvelle branche / Développement feature / Push sur github / Pull request / validation / merge
+
+22)
+Le serverless est le principe d'utiliser un service tiers afin de gérer l'hebergement de l'application et le load-balancing. 
+Généralement, le déploiement peut être commandé par des triggers (ex: pull requests).
 
 
 
