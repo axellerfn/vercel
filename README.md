@@ -55,6 +55,17 @@ Un pull request permet de demander à l'administrateur du projet git s'il autori
 ou non les modifications et les merge sur la branche cible. 
 Souvent des tests sont lancés avant de merge les deux branches.
 
+Vercel créé automatiquement une réponse au pull request en montrant ce que les changements
+impliqueraient et deploie l'environnement preview.
+
+20)
+Au moment du merge, de l'acceptation de la pull request, l'environnement production
+est déployé.
+On voit bien la succession des deploiement dans longlet environnement situé à 
+droite à l'origine du projet.
+
+
+
 
 
 
